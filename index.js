@@ -1,4 +1,1 @@
-sdada
-sdas dasdasda 
-dasd asdasd
-dasdasdasds asad
+let name = "Pavel"
