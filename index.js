@@ -1,1 +1,3 @@
-let name = "Pavel"
+const name = "Pavel";
+
+const age = 25;
